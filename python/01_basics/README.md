@@ -1,7 +1,4 @@
 
-
-
-
 # how to run python 
 """ code => byte code => python Virtual machine 
 1.compile to bytecode (low level & palteform Independent )
@@ -24,4 +21,29 @@ hello.py,cpython-312.pyc
 byte code is a not machine code 
 -> pythoin specfic interpretaion 
 -> cpython(standard impementation) ,jython ,ironpython, stackless,pypy
+
+# linux basic command for python 
+cd md 
+
+# python in shell 
+type in terminal : python3 
+
+# print hello 
+print("hello")
+
+# modules 
+import os 
+os.getcwd()
+
+import sys
+sys.plateform 
+
+# loop
+for c in "chai":
+... presstab print(c)
+... presstab
+c
+h
+a
+i
 
