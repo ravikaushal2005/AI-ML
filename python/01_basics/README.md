@@ -53,3 +53,17 @@ h
 a
 i
 
+# mutable and immutable 
+In Python, objects are either mutable (can be changed after creation) or immutable (cannot be changed after creation).
+# immutable 
+int
+float
+bool
+str
+tuple
+frozenset
+
+# mutable
+list
+dict
+set
