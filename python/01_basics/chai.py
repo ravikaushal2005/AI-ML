@@ -1,3 +1,9 @@
-from hello import hello
+from hello import show
+# from filename fuctionname
+import hello
 
-hello("good morning") 
+show("good morning from chai world") 
+
+#print another file variabe in this file 
+print(hello.a) # built in fuction
+show(hello.b) # show is user define 

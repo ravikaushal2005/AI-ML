@@ -38,6 +38,12 @@ os.getcwd()
 import sys
 sys.plateform 
 
+from importlib import reload ( reload file )
+
+reload(filename)
+reload(hello)
+
+
 # loop
 for c in "chai":
 ... presstab print(c)

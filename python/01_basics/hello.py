@@ -1,6 +1,13 @@
 # print("hello ravi ")
 
-def hello(n):
+def show(n):
     print(n)
 
-hello("hii ravi")
+show("hii ravi")
+show("good morning")
+
+
+#variable access in python 
+'''filename.variablename '''
+a = "chai"
+b = "coffee"
